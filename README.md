@@ -35,4 +35,4 @@ Si no se ingresa un número retorna ValueError, por lo que entra al try/except y
 
 # VIDEO EXPLICATIVO
 
-https://youtu.be/GFMc6vA5L7Q
+[https://youtu.be/GFMc6vA5L7Q](https://youtu.be/7Vp_dtsLnEw?si=oC_kq7p-BIryjsg7)
